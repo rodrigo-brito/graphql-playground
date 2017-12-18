@@ -3,7 +3,9 @@ My personal tests with GraphQL, React, Typescritpt and Relay
 
 ## Development
 
-Install watchman - https://facebook.github.io/watchman/docs/install.html
+Install
+- Watchman - https://facebook.github.io/watchman/docs/install.html
+- GraphQL CLI (Optional) - https://github.com/graphql-cli/graphql-cli
 
 `yarn && yarn start` - build and watch react changes<br/>
 `yarn schema` - watch graphql query changes
