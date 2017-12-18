@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "webpack-dev-server --config config/webpack.config.js",
-    "schema": "./node_modules/relay-compiler/bin/relay-compiler  --src ./src --schema ./schema.graphql --transform relay-compiler-typescript --extensions ts tsx js jsx --watch"
+    "schema": "./node_modules/relay-compiler/bin/relay-compiler  --src ./src --schema ./schema.graphql --transform relay-compiler-typescript --extensions ts tsx js jsx"
   },
   "devDependencies": {
     "@types/react": "^16.0.31",
